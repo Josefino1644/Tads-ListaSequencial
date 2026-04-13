@@ -36,3 +36,8 @@ h1{
   background-color: #195498;
   transform: scale(1.05);
 }
+
+button{
+  margin: 30px;
+  transform:scale(1.5);
+}
